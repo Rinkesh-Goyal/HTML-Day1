@@ -82,13 +82,3 @@ p {
   padding-left: 15px;
   padding-right: 15px;
 }
-
-.container,
-.grid {
-  margin: 0 auto;
-  width: 960px;
-}
-.container {
-  padding-left: 30px;
-  padding-right: 30px;
-}
